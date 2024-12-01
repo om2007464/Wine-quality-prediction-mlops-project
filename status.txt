@@ -1,0 +1,12 @@
+Column fixed acidity is valid.
+Column volatile acidity is valid.
+Column citric acid is valid.
+Column residual sugar is valid.
+Column chlorides is valid.
+Column free sulfur dioxide is valid.
+Column total sulfur dioxide is valid.
+Column density is valid.
+Column pH is valid.
+Column sulphates is valid.
+Column alcohol is valid.
+Column quality is valid.

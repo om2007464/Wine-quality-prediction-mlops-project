@@ -1,0 +1,6 @@
+artifact_location: file:///Users/om/Downloads/End-to-end-Machine-Learning-Project-with-MLflow-2/mlruns/938452011785661042
+creation_time: 1733069161397
+experiment_id: '938452011785661042'
+last_update_time: 1733069161397
+lifecycle_stage: active
+name: wine_quality_experiment
